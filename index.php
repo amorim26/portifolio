@@ -5,7 +5,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portifólio</title>
 
-    <link rel="stylesheet" href="css/styles.css" />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;;
+        }
+        body {
+            background-image:url('imagens/logo.png');
+            background-repeat: no-repeat;
+            background-position: center;
+            background-attachment: fixed;
+            background-size: 100%;
+        }    
+        p {
+            border: 1px solid purple;
+        }
+
+        h1 {
+            background: purple;
+        }
+    </style>
 </head>
 <body>
 
@@ -49,9 +68,7 @@
             <a href="#">Instagram</a>
         </div>
 
-        
     </header>
-
 
 </div>
     
