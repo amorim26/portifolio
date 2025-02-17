@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body {
+    background-image: url('images/logo.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+
+p {
+    border: 1px solid blue;
+}
+
+h1 {
+    background-color: yellow;
+    margin: 2rem;
+    padding: 3rem;
+    transition: .6s ease-in-out;
+}
+
+h1:hover {
+    background-color: cadetblue;
+    transform: scale(1.02);
+    box-shadow: 0px 0px 15px 5px rgba(95, 158, 160, 0.555);
+}
+
+.logo {
+
+}
+
+#interface {
+    
+}
