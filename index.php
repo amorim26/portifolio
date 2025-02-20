@@ -4,7 +4,9 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Portifólio</title>
-    <link rel="stylesheet" href="css/style.css">
+
+    <link rel="stylesheet" href="css/estilos.css">
+    
 </head>
 <body>
 
@@ -34,7 +36,7 @@
             <h1 class="titulo">Entregando serviços de qualidade</h1>
             <h1 class="subtitulo">Soluções em TI</h1>
 
-            <p class="paragrafo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam quibusdam ab in! A, nam voluptas!</p>
+            <p class="paragrafo">Ave Maria, gratia plena, Dominus tecum: benedicta tu in mulieribus et benedictus fructus ventris tui Iesu. Sancta Maria, Mater Dei, ora pro nobis peccatoribus, nunc et in hora mortis nostrae.Amen.</p>
 
         </div>
 
@@ -46,24 +48,6 @@
         </div>
 
     </header>
-
-    <hr>
-    <br><br><br><br><br><br><br>
-    <hr>
-    <br><br><br><br><br><br><br>
-    <hr>
-    <br><br><br><br><br><br><br>
-    <hr>
-    <br><br><br><br><br><br><br>
-    <hr>
-    <br><br><br><br><br><br><br>
-    <hr>
-    <br><br><br><br><br><br><br>
-    <hr>
-    <br><br><br><br><br><br><br>
-    <hr>
-    <br><br><br><br><br><br><br>
-    <hr>
 
 </div>
     

@@ -1,0 +1,27 @@
+:root {
+    font-size: 12px;
+    font-family: Verdana,sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 0;
+    vertical-align: baseline;
+ }
+
+ #interface {
+    display: block;
+    width: 100vw;
+    min-height: 100vw;
+    overflow-x: hidden;
+ }
+
+ #interface header.cabecalho {
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-image: url(../Imagens/hero-bg.png);
+
+ }
