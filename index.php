@@ -21,12 +21,12 @@
                 </div>
 
                 <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">Serviços</a></li>
-                    <li><a href="#">Portifólio</a></li>
-                    <li><a href="#">Sobre</a></li>
-                    <li><a href="#">Contato</a></li>
-                    <li><a href="#">Restrito</a></li>
+                    <li><a href="#"><i class="fas fa-home"></i> Home</a></li>
+                    <li><a href="#"><i class="fas fa-tasks"></i> Serviços</a></li>
+                    <li><a href="#"><i class="fas fa-photo-video"></i> Portifólio</a></li>
+                    <li><a href="#"><i class="fas fa-user-friends"></i> Sobre</a></li>
+                    <li><a href="#"><i class="fas fa-address-card"></i> Contato</a></li>
+                    <li><a href="area_restrita/js/login.php/"><i class="fas fa-unlock-alt"></i> Restrito</a></li>
                 </ul>
 
             </nav>
@@ -221,15 +221,17 @@
 
                         <h4 class="title-contato">Contatos</h4>  
 
-                        <p class="txt-contatos">Rua das Margaridas, S/Nº</p>
-                        <p class="txt-contatos">33 9 8400-9999</p>
-                        <p class="txt-contatos">contato@meusite.com.br</p>
+                        <div class="container-contato">
+                            <p class="txt-contatos">Rua das Margaridas, S/Nº</p>
+                            <p class="txt-contatos">33 9 8400-9999</p>
+                            <p class="txt-contatos">contato@meusite.com.br</p>
+                        </div>
 
                         <h4 class="title-contato">Newsletter</h4>
 
                         <form action="" method="get">
                             <input type="email" name="news-email" id="news-email" placeholder="E-Mail" />
-                            <button type="submit"><i class="fa-brands fa-telegram"></i></button>
+                            <button type="submit"><i class="fab fa-telegram"></i></button>
                         </form>
 
                     </section>
